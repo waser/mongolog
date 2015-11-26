@@ -1,0 +1,5 @@
+*.py[co]
+__pycache__
+*.log
+*.sw[po]
+virt_env/
